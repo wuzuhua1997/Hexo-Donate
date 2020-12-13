@@ -40,49 +40,10 @@ signUpButton.onclick = function () {
 }
 
 signInButton.onclick = function () {
-    self.location = 'https://xingjiahui.top/donate';
+    self.location = 'https://ds.nico.run/donate';
 }
 
 function warnRes(res) {
     swal(
         res,
-        '请检查数据格式！',
-        'warning'
-    );
-}
-
-function errorRes(res) {
-    swal(
-        res,
-        '请按上面提示操作！',
-        'error'
-    );
-}
-
-function successRes(res) {
-    swal(
-        res,
-        '感谢您的支持！',
-        'success'
-    );
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        '请检查数据格式！
