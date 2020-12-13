@@ -1,3 +1,18 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/Hexo/css/custom.min.css">
+<p>截至 <span class="inline-tag red">nowDate</span>，共收到来自 <span class="inline-tag red">personNum</span>位小伙伴的打赏，金额为
+    <span class="inline-tag red">sumDonate</span> 元！</p>
+<table>
+    <thead>
+    <tr>
+        <th align="center">用户名</th>
+        <th align="center">打赏方式</th>
+        <th align="center">打赏金额</th>
+        <th align="center">是否核实</th>
+    </tr>
+    </thead>
+</table>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wuzuhua1997/Hexo-donate@master/donateJS.js"></script>
 /**
  * Hexo-Donate v1.0.0
  * autho XJHui
