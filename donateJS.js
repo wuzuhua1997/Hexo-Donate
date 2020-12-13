@@ -13,6 +13,7 @@
 </table>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wuzuhua1997/Hexo-donate@master/donateJS.js"></script>
+
 /**
  * Hexo-Donate v1.0.0
  * autho XJHui
